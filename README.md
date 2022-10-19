@@ -4,4 +4,4 @@ Grab your client ID from https://discord.com/developers/applications/ -> New app
 
 npm i discord-rpc
 
-My discord is jsh.♡#2672 for queries.
+My discord is joshy#9442 for queries.
